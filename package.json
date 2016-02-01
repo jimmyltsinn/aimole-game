@@ -1,0 +1,12 @@
+{
+  "name": "aimole-game",
+  "version": "1.0.0",
+  "description": "Template for AI mole games. ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmysinn/aimole-game.git"
+  },
+  "author": "Jimmy Sinn",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/jimmysinn/aimole-game#readme"
+}
